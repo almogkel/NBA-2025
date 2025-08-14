@@ -48,6 +48,8 @@ A general comparison between two players based on key game statistics.
   - **Coaches & scouting staff** can quickly find players who best fit their team’s style, compare current roster players with league players, and make data-driven decisions for recruitment or rotations.
   - **Fans** can visually compare players side-by-side to understand differences in style, efficiency, and contribution at a glance, and can quickly settle “who’s better” debates with clear, interactive visualizations.
 
+<img width="1913" height="1048" alt="image" src="https://github.com/user-attachments/assets/c9d9961d-d473-4caa-9809-ab686dc0604d" />
+
 ---
 
 ### 2️⃣ NBA Player Comparison 2025 – Shooting
@@ -59,6 +61,8 @@ A detailed shooting comparison between two players.
 - **Why it works better:** It’s not just percentages — volume is shown alongside efficiency.  
   - **Coaches** can see if a player’s high FG% is from selective shooting or heavy usage.  -- לא בטוח לכבי זה
    - **Fans** can appreciate a player’s true shooting style — whether they’re a paint-dominator or a perimeter sniper.
+ 
+  <img width="1918" height="1045" alt="image" src="https://github.com/user-attachments/assets/9f945de0-5cfb-4267-8e09-e38a0e4be912" />
 
 ---
 
@@ -77,6 +81,9 @@ A season summary for a single player.
   - **Coaches** can instantly visualize a player’s scoring zones to build plays that fit their comfort areas — or expose opponent weaknesses.
   - **Fans** get to “see” the player’s shooting habits, not just read percentages.
   - In addition to shooting analysis, the left side provides a complete player profile — age, team, position, per-game averages, and notable season achievements awards.
+
+<img width="1915" height="1044" alt="image" src="https://github.com/user-attachments/assets/36a7e6e1-c99b-436f-974e-24d1e72cf5e8" />
+
 ---
 
 ### 4️⃣ Team Summary
@@ -103,6 +110,7 @@ An overall season view for a selected team in 2025.
   - **Fans:** Understand the team’s **identity** (where shots come from, who creates, who finishes),*why* their team wins or struggles and why certain lineups work — far beyond a box score.
 
 
+<img width="1916" height="1043" alt="image" src="https://github.com/user-attachments/assets/5abb5d7d-c454-48b3-81ec-332d54396f64" />
 
 ---
 
